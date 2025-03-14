@@ -2,6 +2,9 @@
 
 - Data: [![Data](https://zenodo.org/badge/DOI/10.5281/zenodo.15025644.svg)](https://doi.org/10.5281/zenodo.15025644)
 - Code: [![Code](https://zenodo.org/badge/760951897.svg)](https://doi.org/10.5281/zenodo.15025957)
+- Notebooks: [![DOI](https://zenodo.org/badge/947665775.svg)](https://doi.org/10.5281/zenodo.15026064)
+
+
 
 This repository contains the notebooks to reproduce the paper:
 
