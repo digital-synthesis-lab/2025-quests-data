@@ -4,8 +4,6 @@
 - Code: [![Code](https://zenodo.org/badge/760951897.svg)](https://doi.org/10.5281/zenodo.15025957)
 - Notebooks: [![DOI](https://zenodo.org/badge/947665775.svg)](https://doi.org/10.5281/zenodo.15026064)
 
-
-
 This repository contains the notebooks to reproduce the paper:
 
 D. Schwalbe-Koda, S. Hamel, B. Sadigh, F. Zhou, V. Lordi. "Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory". arXiv:2404.12367 (2024). DOI: [10.48550/arXiv.2404.12367](https://doi.org/10.48550/arXiv.2404.12367)
