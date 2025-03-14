@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "2025-quests-data"
+version = "2025.03.14"
+description = "Notebooks for the paper: Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory"
+authors = [{name = "Daniel Schwalbe-Koda", email = "dskoda@ucla.edu"}]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+keywords = ["machine-learning", "neural-networks", "atomistic-simulation", "information-theory"]
+dependencies = [
+    "numpy",
+    "scipy",
+    "ase",
+    "scikit-learn",
+    "quests",
+    "seaborn",
+    "matplotlib",
+    "matscipy",
+    "networkx",
+    "lammps-logfile",
+    "statsmodels"
+]
+
+[project.urls]
+Homepage = "https://github.com/digital-synthesis-lab/2025-quests-data"
+
+[tool.setuptools]
+packages = ["quests_data"]
