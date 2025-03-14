@@ -1,4 +1,4 @@
-# Data for: Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory
+# Notebooks for: Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory
 
 - Data: [![Data](https://zenodo.org/badge/DOI/10.5281/zenodo.15025644.svg)](https://doi.org/10.5281/zenodo.15025644)
 - Code: [![Code](https://zenodo.org/badge/760951897.svg)](https://doi.org/10.5281/zenodo.15025957)
