@@ -1,5 +1,7 @@
 # Data for: Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory
 
+[![Data](https://zenodo.org/badge/DOI/10.5281/zenodo.15025644.svg)](https://doi.org/10.5281/zenodo.15025644)
+
 This repository contains the notebooks to reproduce the paper:
 
 D. Schwalbe-Koda, S. Hamel, B. Sadigh, F. Zhou, V. Lordi. "Model-free estimation of completeness, uncertainties, and outliers in atomistic machine learning using information theory". arXiv:2404.12367 (2024). DOI: [10.48550/arXiv.2404.12367](https://doi.org/10.48550/arXiv.2404.12367)
@@ -30,7 +32,7 @@ chmod +x download.sh
 
 in the root of the repository.
 While some of the data is already available in the repository, most of the raw data is too large for GitHub.
-Thus, part of the raw data that reproduces the paper is hosted on Zenodo for persistent storage (DOI: []()).
+Thus, part of the raw data that reproduces the paper is hosted on Zenodo for persistent storage (DOI: [10.5281/zenodo.15025644](https://doi.org/10.5281/zenodo.15025644)).
 
 ## Data and Code Description
 
